@@ -50,7 +50,7 @@ Minkyu Kim = {
 
 ![Atom](https://img.shields.io/badge/Atom-green?style=for-the-badge&logo=atom&logoColor=white)
 ![Axure](https://img.shields.io/badge/Axure-purple?style=for-the-badge&logo=XState&logoColor=white)
-![Power Point](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
+![Power Point](https://img.shields.io/badge/PowerPoint-red?style=for-the-badge&logo=MicrosoftPowerPoint&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-blue?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
 
