@@ -56,6 +56,5 @@ Minkyu Kim = {
 
 ### How to reach me
 - linkedin: https://www.linkedin.com/in/roy-kim-654532115/
-- development resume: 
 - Open Kakaotalk: https://open.kakao.com/o/swbsJale
 - email: zzon37@naver.com
