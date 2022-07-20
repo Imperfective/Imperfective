@@ -4,7 +4,7 @@
   
 ### MinKyu Kim (Roy Kim)
 👋 Hi! Welcome to my GitHub place.
-I am a Project Manger and Service Designer in South Korea.
+I am a Junior Project Manger and Service Designer in South Korea.
 
 ```rust
 Minkyu Kim = {
