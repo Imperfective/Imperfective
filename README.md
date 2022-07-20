@@ -14,7 +14,6 @@ Minkyu Kim = {
   languages = HTML, CSS, Java script, PYTHON, SQL, R
   tools = Axure, Powerpoint, Excel, Word, VS code, Atom
   current Company = Commerce Lab
-  student = University Korea
   us_name = Roy Kim
 } ::
 ```
