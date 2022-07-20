@@ -54,7 +54,7 @@ Minkyu Kim = {
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=MicrosoftExcel&logoColor=white)
 ![Word](https://img.shields.io/badge/Word-blue?style=for-the-badge&logo=MicrosoftWord&logoColor=white)
 
-![](./profile-3d-contrib/profile-night-green-version.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 ### How to reach me
 - linkedin: https://www.linkedin.com/in/roy-kim-654532115/
