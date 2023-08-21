@@ -25,6 +25,7 @@ Minkyu Kim = {
 * Expeditors Korea, Sales & Marketing Executive, Lead Agnet (2015.05 ~ 2019.09) 
 
 ### Education
+* The Graduate School of Soongsil University, AI Media department (2023.09 ~ ing )
 * Inha Technology college, Airline Management department (2011.03 ~ 2016.02)
 * Sawoo Highschool (2008.03 ~ 2011.02)
 
