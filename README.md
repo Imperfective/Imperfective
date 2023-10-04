@@ -37,7 +37,7 @@ Minkyu Kim = {
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzon37)](https://solved.ac/zzon37)
 
 ### Watch my contribution graph get eaten by the snake
-![snake gif](https://github.com/imperfective/imperfective/blob/output/github-contribution-grid-snake.gif)
+
 
 ### Languages & Tools
 
