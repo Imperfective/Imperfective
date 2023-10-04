@@ -36,9 +36,6 @@ Minkyu Kim = {
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzon37)](https://solved.ac/zzon37)
 
-### Watch my contribution graph get eaten by the snake
-
-
 ### Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML-darkblue?style=for-the-badge&logo=html5&logoColor=white)
