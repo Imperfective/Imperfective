@@ -26,6 +26,7 @@ Minkyu Kim = {
 
 ### Education
 * The Graduate School of Soongsil University, AI Media department (2023.09 ~ Current)
+* The cyber of University of Korea, double major [ Big data, AI ] (2021.09 ~ 2022.09) 
 * Inha Technology college, Airline Management department (2011.03 ~ 2016.02)
 * Sawoo Highschool (2008.03 ~ 2011.02)
 
