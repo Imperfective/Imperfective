@@ -12,7 +12,7 @@ Minkyu Kim = {
   email = "zzon37@naver.com",
   instagram = "https://www.instagram.com/minkyu___kim/",
   languages = HTML, CSS, Java script, PYTHON, SQL, R
-  tools = Axure, Powerpoint, Excel, Word, VS code, Atom
+  tools = Axure, Figma, Powerpoint, Excel, Word, VS code, Atom
   current Company = Commerce Lab
   us_name = Roy Kim
 } ::
