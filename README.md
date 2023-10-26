@@ -4,7 +4,7 @@
   
 ### MinKyu Kim (Roy Kim)
 👋 Hi! Welcome to my GitHub place.
-I am a Junior Project Manger and Service Designer in South Korea.
+I am Project Manger & Program manager in South Korea.
 
 ```rust
 Minkyu Kim = {
@@ -15,7 +15,7 @@ Minkyu Kim = {
   tools = Axure, Figma, Powerpoint, Excel, Word, VScode, Atom
   current Company = Commerce Lab
   us_name = Roy Kim
-}
+}::
 ```
 
 ### Work Experiences
