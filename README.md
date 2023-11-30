@@ -57,3 +57,4 @@ Minkyu Kim = {
 - open_kakaotalk: https://open.kakao.com/o/swbsJale
 - email: zzon37@naver.com
 - blog : https://blog.naver.com/nice-roy
+- Youtube : https://www.youtube.com/@user-bo8is9ef5s/videos
