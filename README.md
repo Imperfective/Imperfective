@@ -58,3 +58,4 @@ Minkyu Kim = {
 - email: zzon37@naver.com
 - blog : https://blog.naver.com/nice-roy
 - Youtube : https://www.youtube.com/@user-bo8is9ef5s/videos
+- instagram : Minkyu___Kim
