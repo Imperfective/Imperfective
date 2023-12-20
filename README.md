@@ -15,7 +15,7 @@ Minkyu Kim = {
   tools = Axure, Figma, Powerpoint, Excel, Word, VScode, Atom
   current Company = Commerce Lab
   us_name = Roy Kim
-}::
+}:
 ```
 
 ### Work Experiences
