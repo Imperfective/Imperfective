@@ -15,10 +15,11 @@ Minkyu Kim = {
   tools = Axure, Figma, Powerpoint, Excel, Word, VScode, Atom
   current Company = Commerce Lab
   us_name = Roy Kim
-}:
+}::
 ```
 
 ### Work Experiences
+* Kmong Freelance (Weekend part-time job), IT Porject Manager (2023.05 ~ Current)
 * CommerceLab, Project Manager, Lead Agent (2022.04 ~ Current)
 * KST Mobility, Data Management Account Manager, Manager (2021.04 ~ 2022.04)
 * DeliveryHero Korea, Data Management Account Manager, Manager (2020.03 ~ 2021.03)
