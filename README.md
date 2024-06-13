@@ -31,6 +31,9 @@ Minkyu Kim = {
 * Inha Technology college, Airline Management department (2011.03 ~ 2016.02)
 * Sawoo Highschool (2008.03 ~ 2011.02)
 
+### Research Achievement
+* A Study on the Aesthetic Value and Emotional Differences between AI-Generated Images and Artists' Works, ASK2024, KIPS (2024.04)
+
 ### Message from me 
 ![chat_svg](https://github.com/imperfective/imperfective/blob/master/chat.svg)
 
