@@ -63,3 +63,4 @@ Minkyu Kim = {
 - blog : https://blog.naver.com/nice-roy
 - Youtube : https://www.youtube.com/@user-bo8is9ef5s/videos
 - instagram : Minkyu___Kim
+- orcid : https://orcid.org/0009-0004-7996-4458
