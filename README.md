@@ -32,6 +32,7 @@ Minkyu Kim = {
 * Sawoo Highschool (2008.03 ~ 2011.02)
 
 ### Research Achievement
+* A Study of Aesthetic Value and Technical Limits Through the Comparison of Artworks Created by Artificial Intelligence and Artists, Getting ready to post, KTSDE (2024.07)
 * A Study on the Aesthetic Value and Emotional Differences between AI-Generated Images and Artists' Works, ASK2024, KIPS (2024.04)
 
 ### Message from me 
