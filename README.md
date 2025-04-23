@@ -1,7 +1,3 @@
-<div align = 'right'>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImperfective%2F&count_bg=%238CD39A&title_bg=%23D9D9D9&icon=github.svg&icon_color=%23000000&title=hits&edge_flat=false"/></a>
-</div>
-  
 ### MinKyu Kim (Roy Kim)
 👋 Hi! Welcome to my GitHub place.
 I am Project Manger & Program manager in South Korea.
@@ -12,8 +8,8 @@ Minkyu Kim = {
   email = "zzon37@naver.com",
   instagram = "https://www.instagram.com/minkyu___kim/",
   languages = HTML, CSS, Java script, PYTHON, SQL, R
-  tools = Axure, Figma, Powerpoint, Excel, Word, VScode, Atom
-  current Company = Commerce Lab
+  tools = Axure, Figma, Powerpoint, Excel, Word
+  current Company = Wemeetmobility
   us_name = Roy Kim
 }::
 ```
