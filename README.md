@@ -19,8 +19,8 @@ Minkyu Kim = {
 ```
 
 ### Work Experiences
-* Kmong Freelance (Weekend part-time job), IT Porject Manager (2023.05 ~ Current)
-* CommerceLab, Project Manager, Lead Agent (2022.04 ~ Current)
+* Wemeetmobility, Porject Manager (2025.02 ~ Current)
+* CommerceLab, Project Manager, Lead Agent (2022.04 ~ 2025.01)
 * KST Mobility, Data Management Account Manager, Manager (2021.04 ~ 2022.04)
 * DeliveryHero Korea, Data Management Account Manager, Manager (2020.03 ~ 2021.03)
 * Expeditors Korea, Sales & Marketing Executive, Lead Agnet (2015.05 ~ 2019.09) 
