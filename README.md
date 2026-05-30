@@ -15,7 +15,7 @@ Minkyu Kim = {
 ```
 
 ### Work Experiences
-* MS Autotech, Project Manager (2025.12 ~ Current)
+* MS Autotech, Project Manager (2025.12 ~ Present)
 * Wemeetmobility, Porject Manager (2025.02 ~ 2025.12)
 * CommerceLab, Project Manager, Lead Agent (2022.04 ~ 2025.01)
 * KST Mobility, Data Management Account Manager, Manager (2021.04 ~ 2022.04)
@@ -23,7 +23,8 @@ Minkyu Kim = {
 * Expeditors Korea, Sales & Marketing Executive, Lead Agnet (2015.05 ~ 2019.09) 
 
 ### Education
-* The Graduate School of Soongsil University, AI Media department (2023.09 ~ Current)
+* The Graduate School of Soongsil University, Ph.D. Program in Media, AI Major (2026.03 ~ Present)
+* The Graduate School of Soongsil University, M.A./M.S. in AI Media AI Media department (2023.09 ~ 2026.02)
 * The cyber of University of Korea, double major [ Big data, AI ] (2021.09 ~ 2022.08) 
 * Inha Technology college, Airline Management department (2011.03 ~ 2016.02)
 * Sawoo Highschool (2008.03 ~ 2011.02)
