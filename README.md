@@ -15,7 +15,8 @@ Minkyu Kim = {
 ```
 
 ### Work Experiences
-* Wemeetmobility, Porject Manager (2025.02 ~ Current)
+* MS Autotech, Project Manager (2025.12 ~ Current)
+* Wemeetmobility, Porject Manager (2025.02 ~ 2025.12)
 * CommerceLab, Project Manager, Lead Agent (2022.04 ~ 2025.01)
 * KST Mobility, Data Management Account Manager, Manager (2021.04 ~ 2022.04)
 * DeliveryHero Korea, Data Management Account Manager, Manager (2020.03 ~ 2021.03)
